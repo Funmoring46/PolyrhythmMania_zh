@@ -10,7 +10,7 @@ import paintbox.i18n.LocalizationGroup
 object PRManiaLocalePicker : LocalePickerBase(
     if (PRMania.isDevVersion || PRMania.isPrereleaseVersion)
         Gdx.files.internal("localization/langs.json")
-    else Gdx.files.internal("localization/langs_en-only.json")
+    else Gdx.files.internal("localization/langs.json")
 )
 
 

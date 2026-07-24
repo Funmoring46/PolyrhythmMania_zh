@@ -8,9 +8,9 @@
     }
   },
   {
-    "name": "Español",
+    "name": "简体中文",
     "locale": {
-      "language": "es",
+      "language": "zh",
       "country": "",
       "variant": ""
     }
