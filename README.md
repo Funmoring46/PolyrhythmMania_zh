@@ -2,7 +2,7 @@
 A game that faithfully recreates the *Polyrhythm* minigame from Rhythm Tengoku (リズム天国), with a 
 built-in level editor and side modes.
 
-This fork translates this game into simplified Chinese (简体中文) and replaces fonts and logos to support it.
+This fork translates this game into simplified Chinese (简体中文) and edits/replaces fonts and logos to support it. My Chinese isn't truly fluent so beware of bad translations.
 
 ![Polyrhythm Mania thumbnail](https://user-images.githubusercontent.com/6299069/144956042-654ff2b3-aeba-4486-810e-f26aa1b33bff.png)
 

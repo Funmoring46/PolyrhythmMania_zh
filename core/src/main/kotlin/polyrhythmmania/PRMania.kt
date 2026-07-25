@@ -11,11 +11,11 @@ import java.io.File
 
 object PRMania {
 
-    const val TITLE = "Polyrhythm Mania"
+    const val TITLE = "Polyrhythm Mania (Chinese Edition)"
     const val GITHUB = "https://github.com/chrislo27/PolyrhythmMania"
     const val HOMEPAGE = "https://polyrhythmmania.rhre.dev"
     const val DONATE_LINK = "https://www.paypal.com/donate/?hosted_button_id=9JLGHKZNWLLQ8"
-    val VERSION: Version = Version(2, 2, 0, "20260201a")
+    val VERSION: Version = Version(2, 2, 0, "20260201a_zh")
     private const val DEFAULT_WIDTH: Int = 1280
     private const val DEFAULT_HEIGHT: Int = 720
     val DEFAULT_SIZE: WindowSize = WindowSize(DEFAULT_WIDTH, DEFAULT_HEIGHT)
